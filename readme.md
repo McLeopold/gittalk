@@ -23,5 +23,8 @@ Learn git enough to rewrite history without fear.
     1. rebase
     1. merge
 1. Advanced Workflow
+    1. Dictator / Liutentent
+    1. Feature / Topic branch
+    1. Deploy branch
 1. Sub Modules
 1. Visual Studio Integration

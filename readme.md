@@ -17,6 +17,11 @@ Learn git enough to rewrite history without fear.
     1. index
     1. submodule
 1. Common Commands
+    1. push
+    1. pull
+    1. fetch
+    1. rebase
+    1. merge
 1. Advanced Workflow
 1. Sub Modules
 1. Visual Studio Integration

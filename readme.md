@@ -28,3 +28,11 @@ Learn git enough to rewrite history without fear.
     1. Deploy branch
 1. Sub Modules
 1. Visual Studio Integration
+    1. Team Explorer
+    1. Status bar
+    1. Manage branches
+    1. Changes
+    1. Sync
+    1. History
+    1. Pull requests
+    1. Force push

@@ -19,4 +19,6 @@ Learn git enough to rewrite history without fear.
 1. Common Commands
 1. Advanced Workflow
 1. Sub Modules
+    1. What are submodule
+    1. When to use
 1. Visual Studio Integration

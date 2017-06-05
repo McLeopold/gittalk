@@ -22,6 +22,8 @@ Learn git enough to rewrite history without fear.
     1. fetch
     1. rebase
     1. merge
+1. Under the hood
+    1. reflog
 1. Advanced Workflow
     1. Dictator / Liutentent
     1. Feature / Topic branch

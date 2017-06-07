@@ -11,6 +11,10 @@ Learn git enough to rewrite history without fear.
 
 1. Level Set
     1. commit
+        a commit command looks like
+        ```
+        git commit -a -m "First Post!"
+        ```
     1. branch
     1. tag
     1. remote

@@ -1,0 +1,3 @@
+[submodule "scott2"]
+	path = scott2
+	url = https://github.com/McLeopold/scott2.git
